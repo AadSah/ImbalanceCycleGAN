@@ -1,7 +1,7 @@
 # ImbalanceCycleGAN
 This repository contains code for the paper:
 
-### Mitigating Dataset Imbalance via Joint Generation and Classification
+### [Mitigating Dataset Imbalance via Joint Generation and Classification](https://arxiv.org/pdf/2008.05524.pdf)
 
 [Aadarsh Sahoo](https://aadsah.github.io/)<sup>1*</sup>, [Ankit Singh](https://griffintaur.github.io/)<sup>2*</sup>, [Rameswar Panda](https://rpand002.github.io/)<sup>3</sup>, [Rogerio Feris](http://rogerioferis.com/)<sup>3</sup>, and [Abir Das](https://cse.iitkgp.ac.in/~adas/)<sup>1</sup> 
 
@@ -25,12 +25,11 @@ Supervised deep learning methods are enjoying enormous success in many practical
 
 ## Citation
 ```
-@inproceedings{ImbalanceCycleGAN,
-  title={Mitigating Dataset Imbalance via Joint Generation and Classification},
-  author={Sahoo, Aadarsh and Singh, Ankit and Panda, Rameswar and Feris, Rogerio
-          and Das, Abir},
-  booktitle={ECCV Workshop, IPCV (to be changed)},
-  year={2020}
+@inproceedings{sahoo2020mitigating,
+      title={Mitigating Dataset Imbalance via Joint Generation and Classification}, 
+      author={Aadarsh Sahoo and Ankit Singh and Rameswar Panda and Rogerio Feris and Abir Das},
+      booktitle={ECCV Workshop on Imbalance Problems in Computer Vision},
+      year={2020}
 }
 ```
 ## Contact
